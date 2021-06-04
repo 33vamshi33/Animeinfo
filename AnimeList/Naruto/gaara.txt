@@ -1,0 +1,3 @@
+Name="gaara"
+Special_power="Jinchurki of 1 Tail"
+Spouse="Unknown"
