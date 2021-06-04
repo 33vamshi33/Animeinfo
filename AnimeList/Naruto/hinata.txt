@@ -1,0 +1,3 @@
+name="hinata"
+special_power="bakyugan"
+married_to="naruto"
