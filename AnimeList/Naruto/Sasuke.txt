@@ -1,2 +1,3 @@
 name="sasuke"
-special_power="sharingan"
+Special_power="sharingan"
+Spouse="sakura"

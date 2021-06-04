@@ -1,2 +1,3 @@
 Name="naruto"
 Special_power="Jinchurki of 9 Tails"
+Spouse="hinata"
